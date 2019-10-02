@@ -1,0 +1,20 @@
+{
+  "name": "Class-movie-activity",
+  "version": "1.0.0",
+  "description": "A small description of the repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielp28/Class-movie-activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielp28/Class-movie-activity/issues"
+  },
+  "homepage": "https://github.com/danielp28/Class-movie-activity#readme"
+}
