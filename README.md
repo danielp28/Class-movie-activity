@@ -1,2 +1,2 @@
 # Class-movie-activity
-A small description of the repo
+A CLI application that uses an API to get relevent movie information based on what is searched
